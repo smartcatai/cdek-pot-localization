@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " в том числе кредитный контролер не определен"
+msgstr ""
+
+msgid "IT поддержка"
+msgstr ""
+
+msgid "Push-уведомления"
+msgstr ""
+
+msgid "База знаний"
+msgstr ""
+
+msgid "Включить уведомления"
+msgstr ""
+
+msgid ""
+"Внимание! Являясь пользователем ЭК5, Вы ведете обработку персональных "
+"данных клиентов СДЭК. Ответственность за незаконное обращение с "
+"персональными данными предусмотрена 152-ФЗ РФ от 27.07.2006г."
+msgstr ""
+
+msgid "Загрузка..."
+msgstr ""
+
+msgid "Закрыть"
+msgstr ""
+
+msgid "Кредитные контролеры"
+msgstr ""
+
+msgid "Найти раздел"
+msgstr ""
+
+msgid "Ответственные офисы"
+msgstr ""
+
+msgid "Параметры отображения уведомлений"
+msgstr ""
+
+msgid "Показать подсказки"
+msgstr ""
+
+msgid "Портал обращений"
+msgstr ""
+
+msgid "Почта СДЭК"
+msgstr ""
+
+msgid "Профиль"
+msgstr ""
+
+msgid "Сменить пароль"
+msgstr ""
+
+msgid "Сохранить"
+msgstr ""
+
+msgid "Список изменений"
+msgstr ""
+
+msgid "Список объявлений"
+msgstr ""
+
+msgid "Темы"
+msgstr ""
+
+msgid "Уведомлять о необходимости проверить фотографию"
+msgstr ""
+
+msgid "Чат с техподдержкой"
+msgstr ""
+
+msgid "в том числе ответственный офис не определен"
+msgstr ""
+
+msgid "время до закрытия задачи, связанной с уведомлением"
+msgstr ""
+
+msgid "день"
+msgstr ""
+
+msgid "дней"
+msgstr ""
+
+msgid "дня"
+msgstr ""
